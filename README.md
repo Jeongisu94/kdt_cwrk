@@ -6,4 +6,8 @@
 - age : 26
 - univ : kyonggi
 
-## to conflict !!!!!
+
+## Lee minkyu
+- id : minkyuu
+- age : 31
+- univ : soongsil
