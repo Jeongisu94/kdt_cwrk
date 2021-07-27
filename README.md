@@ -11,3 +11,4 @@
 ## Lee minkyu
 - id : minkyuu
 - age : 31
+- univ : soongsil
