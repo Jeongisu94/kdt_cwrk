@@ -5,3 +5,10 @@
 - id : kho903
 - age : 26
 - univ : kyonggi
+
+
+
+## Lee minkyu
+- id : minkyuu
+- age : 31
+- univ : soongsil
