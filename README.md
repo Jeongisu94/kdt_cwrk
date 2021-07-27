@@ -4,3 +4,4 @@
 ## kim ji hun
 - id : kho903
 - age : 26
+- univ : kyonggi
